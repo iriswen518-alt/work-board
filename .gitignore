@@ -1,3 +1,5 @@
 board.html
 build/
 .deploy_pw
+.DS_Store
+.staticrypt.json
